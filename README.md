@@ -1,5 +1,5 @@
 # 3D-GCCN
-This is the reference code for ["3D Graph-Connectivity Constrained Network for Hepatic Vessel Segmentation"](https://ieeexplore.ieee.org/abstract/document/9562259) for non-commercial use.
+This is the reference code for ["3D Graph-Connectivity Constrained Network for Hepatic Vessel Segmentation"](https://ieeexplore.ieee.org/abstract/document/9562259).
 
 ## Dependency
 * Python 3.6+
