@@ -11,8 +11,8 @@ from utils import check_and_create_path, load_data, hausdorff_95
 import sys
 sys.path.append('./')
 
-img_dir = '../Image_folder/'
-prob_dir = '../Label_folder/'
+test_dir = '../Image_folder/'
+label_dir = '../Label_folder/'
 out_dir = 'prediction/temp/'
 check_and_create_path(out_dir)
 encoder_path = 'checkpoints/temp/best_cnn_encoder-0.xxxx.pth'
