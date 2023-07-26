@@ -13,8 +13,8 @@ from utils import cal_dice_loss, NewDiceLoss, MyDataset, check_and_create_path, 
 import sys
 sys.path.append('./')
 
-img_dir = '../Image_folder/'
-prob_dir = '../Label_folder/'
+data_dir = '../Image_folder/'
+label_dir = '../Label_folder/'
 graph_dir = '3d_graph/'
 checkpoint_dir = 'checkpoints/temp/'
 encoder_dir = checkpoint_dir + 'encoder/'
